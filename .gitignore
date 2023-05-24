@@ -1,0 +1,9 @@
+node_modules/
+venv/
+.env**
+.idea
+*__pycache__*
+fed_liquidity.txt
+last_datapoint.json
+liquidity_data.json
+spx_fair_value.txt
